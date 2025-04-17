@@ -43,7 +43,7 @@ A Java-based Library Management System that provides functionality for managing 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/Pushpendra-Singh-Yadav/library-management-system
 ```
 
 2. Navigate to the project directory:
